@@ -1,0 +1,78 @@
+{
+  "useHotelCode": false,
+  "fullPricingPage": true,
+  "allowBreakfast100Percent": false,
+  "allowExternalReservationEdit": false,
+  "allowExternalReservationAddExtra": true,
+  "allowExternalReservationRefund": true,
+  "allowMovingToDirtyRoom": false,
+  "longTermReservationDays": 28,
+  "dummyLock": true,
+  "manualPaymentPreset": false,
+  "manualPayment": [
+    "basic",
+    "integrated",
+    "manual"
+  ],
+  "OTAServices": [
+    "BOOKINGCOM",
+    "EXPEDIA"
+  ],
+  "sendNotificationMethods": [
+    "email",
+    "sms"
+  ],
+  "page": [
+    "reservations",
+    "usage",
+    "maintenance",
+    "reports",
+    "customers",
+    "pricing",
+    "customers",
+    "pricing",
+    "allotments",
+    "voucher",
+    "breakfast",
+    "hotels",
+    "locks"
+  ],
+  "reportType": [
+    "breakfast",
+    "cleaning-list",
+    "daily-availability",
+    "guests",
+    "guests-mobile",
+    "on-the-books",
+    "on-the-books-by-reservation",
+    "revenue",
+    "new-revenue",
+    "sales",
+    "payments",
+    "financial-summary",
+    "unpaid-reservations"
+  ],
+  "timeSecif": [
+    "SameDayECIFlex_15",
+    "SameDayECIFlex_14",
+    "SameDayECIFlex_13",
+    "SameDayECIFlex_12",
+    "SameDayECIFlex_11",
+    "SameDayECIFlex_10",
+    "SameDayECIFlex_9",
+    "SameDayECIFlex_8",
+    "SameDayECIFlex_7",
+    "SameDayECIFlex_6"
+  ],
+  "voucherCategory": [
+    "DISCOUNT_VOUCHER",
+    "BOOKING_PERIOD",
+    "RESERVATION_PERIOD",
+    "VOUCHER_NAME",
+    "VOUCHER_DESCRIPTION",
+    "MONETARY_VOUCHER",
+    "VOUCHER_CODE",
+    "CUSTOMER_NAME",
+    "EMAIL"
+  ]
+}

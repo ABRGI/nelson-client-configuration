@@ -1,0 +1,40 @@
+{
+  "DoorcodeInfoTitle": "",
+  "DoorcodeInfoDesc": "",
+  "Standard": "Standard Studio",
+  "STANDARD": "Standard Studio",
+  "short_STANDARD": "Standard",
+  "bed_arrangement_standard_room": "1 double bed",
+  "StandardRoomDescription": "Enjoy a good night's sleep in our comfortable double beds. A newly renovated bathroom and a small refrigerator ensures your comfort. Rooms available for 1-2 people.",
+  "Extra bed": "Extra bed",
+  "Breakfast": "Breakfast",
+  "SameDayECIFlex_15": "Early arrival 15:00",
+  "SameDayECIFlex_14": "Early arrival 14:00",
+  "SameDayECIFlex_13": "Early arrival 13:00",
+  "SameDayECIFlex_12": "Early arrival 12:00",
+  "SameDayECIFlex_11": "Early arrival 11:00",
+  "SameDayECIFlex_10": "Early arrival 10:00",
+  "SameDayECIFlex_9": "Early arrival 09:00",
+  "SameDayECIFlex_8": "Early arrival 08:00",
+  "SameDayECIFlex_7": "Early arrival 07:00",
+  "SameDayECIFlex_6": "Early arrival 06:00",
+  "Late departure": "Late departure 14:00",
+  "Early arrival": "Early arrival 14:00",
+  "breakfast": {
+    "EX1": "A nearby restaurant serves breakfast to hotel guests at 1 Philbeach Gardens, London SW5 9DY, UK."
+  },
+  "roomImgCaption": {
+    "EX1": {
+      "standard": {
+        "1_doublebed_window": "A spacious double bed, providing a comfortable and inviting space",
+        "2_shower": "Stylish bathroom boasts modern fixtures",
+        "3_kitchenette": "A convenient and well-equipped space for preparing meals and snacks",
+        "4_hotel_facilities": "The kitchenette allows for a home-away-from-home experience",
+        "5_wide_view": "Compact hotel room cleverly maximizes space efficiency",
+        "6_entrance_hallway": "Ambient lighting and tasteful decor creates a welcoming atmosphere",
+        "7_hallway_floor2": "Recently renovated hotel with elegant hallways",
+        "8_facade": "Highly convenient location, situated right next to the tube station"
+      }
+    }
+  }
+}

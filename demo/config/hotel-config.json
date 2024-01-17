@@ -1,0 +1,25 @@
+{
+  "name": "Demo",
+  "hotelChainName": "USHotels",
+  "hotelLogoDark": "/resources/images/demo/demo-logo.jpg",
+  "hotelLogoLight": "/resources/images/demo/demo-logo.jpg",
+  "hotelLogoHeight": 22,
+  "hotelFavicon": "/resources/images/demo/demo-icon.png",
+  "hotelTitle": "Book - Nelson Demo Hotel",
+  "MUIdomain": {
+    "test": "demo.nelson.management",
+    "stg": "demo.nelson.management",
+    "prod": "demo.nelson.management"
+  },
+  "theme": {
+    "mainColor": "#2D635E",
+    "borderRadius": 5,
+    "outlineRadius": 5
+  },
+  "language": [
+    "en",
+    "fi"
+  ],
+  "font": "Inter",
+  "headerFont": "Inter"
+}

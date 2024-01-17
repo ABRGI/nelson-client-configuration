@@ -1,0 +1,66 @@
+{
+  "DoorcodeInfoTitle": "Ovikoodi on avaimesi Salora",
+  "DoorcodeInfoDesc": "Kaikki vieraat saavat huoneiden numerot ja ovikoodit tekstiviestillä ja sähköpostilla saapumispäivän lähestyessä.",
+  "Standard": "Standard huone",
+  "Windowless": "Ikkunaton huone",
+  "Suite": "Sviitti",
+  "Superior": "Superior huone",
+  "STANDARD": "Standard huone",
+  "WINDOWLESS": "Ikkunaton huone",
+  "SUITE": "Sviitti",
+  "SUPERIOR": "Superior huone",
+  "short_STANDARD": "Standard",
+  "short_WINDOWLESS": "Ikkunaton",
+  "short_SUITE": "Sviitti",
+  "short_SUPERIOR": "Superior",
+  "bed_arrangement_windowless_room": "2 - 3 yhden hengen sänky",
+  "bed_arrangement_standard_room": "2 - 3 yhden hengen sänky",
+  "bed_arrangement_suite_room": "2 yhden hengen sänky + 1 sohva",
+  "bed_arrangement_superior_room": "2 yhden hengen sänky",
+  "WindowlessRoomDescription" : "Nauti hyvistä unista mukavissa sängyissämme. Huoneista löytyy ”ikkunataulu” suoraan Suomen saariston sydämeen. Hotellin parhaimmat ”näköalat” löytyvätkin ikkunattomista huoneistamme! Huoneita saatavilla 1-3 hengelle.",
+  "SuiteRoomDescription": "Tilava saunallinen kaksio, jossa nukkuu taatusti hyvin. Huoneisto sopii erittäin hyvin esim. perheille. Iso kylpyhuone, erillinen wc ja oma makuuhuone sekä keittokomero auttaa viihtymään pidemmänkin aikaa, lisäksi kahdelle hengelle varapeti. Huoneistossa on  lisänä myös ilmalämpöpumppu. Huoneisto saatavilla 1-4 henkilölle.",
+  "SuperiorRoomDescription": "Nauti hyvistä unista mukavissa sängyissämme. Iso jääkaappi sekä mikroaaltouuni takaavat onnistuneen vierailun pidemmäksikin aikaa. Huoneita saatavilla 1-2 hengelle.",
+  "StandardRoomDescription": "Nauti hyvistä unista mukavissa sängyissämme. Tilava kylpyhuone ja pieni jääkaappi lisäävät viihtyvyyttä. Huoneita saatavilla 1-3 hengelle.",
+  "Extra bed": "Lisävuode",
+  "Breakfast": "Aamiainen",
+  "breakfast": {
+    "SAL1": "Aamupala tarjoillaan Hanhivaaran Cafe Pisteessä. Käytäviltä löydät opasteet kahvilaan. Tarkistathan aina etukäteen kahvilan aukioloajat hotellin nettisivuilta."
+  },
+  "roomImgCaption": {
+    "SAL1": {
+      "windowless": {
+        "sal1_windowless": "Ikkunattomasta kolmen hengen huoneesta löytyy kolme yhden hengen vuodetta.",
+        "sal1_windowless_bathroom": "Tilavassa kylpyhuoneessa on suihku sekä hiustenkuivain. Pyyhkeitä löytyy kahta eri kokoa.",
+        "sal1_windowless_sport": "Ikkunattomassa, valotaulullisessa huoneessa on kaksi sänkyä ja suuri taulutv. Tietyissä valotaulullisissa huoneissa on lisäksi sohva. Huoneissa on lisäksi kirjoituspöytä, tuoli, vedenkeitin sekä kahvia ja teetä.",
+        "sal1_windowless_triple": "Muutama ikkunaton huone on kolmelle hengelle."
+      },
+      "standard": {
+        "sal1_standard_bathroom": "Tilavassa kylpyhuoneessa on suihku sekä hiustenkuivain. Pyyhkeitä löytyy kahta eri kokoa.",
+        "sal1_standard_bed": "Sänkyjen vierestä löytyy yövalot.",
+        "sal1_standard_desk": "Huoneissa on kirjoituspöytä, tuoli, tietyissä huoneissa lisäksi oleskelutuoli. Vedenkeitin, kahvia ja teetä.",
+        "sal1_standard_sofa": "Tietyissä standard huoneissa on lisäksi sohva.",
+        "sal1_standard_sport": "Sisäänpääsy Hanhivaaran liikuntakeskuksen kuntosalilla ja saunoihin sisältyy majoituksen hintaan.",
+        "sal1_standard_triple": "Tietyt standard huoneet ovat kolmelle hengelle. Huoneissa on kolme sänkyä, työpöytä, työtuoli sekä suuri taulu tv. Vedenkeitin, kahvia ja teetä on tarjolla.",
+        "sal1_standard_twin": "Huoneessa on kaksi sänkyä ja suuri taulu-TV."
+      },
+      "suite": {
+        "sal1_suite_bathroom": "VIP Superior huoneistossa on kaksi suihkua.",
+        "sal1_suite_bedroom": "Makuuhuoneessa on kaksi erillistä sänkyä.",
+        "sal1_suite_closet": "Makuuhuoneessa on tilava vaatekaappi ja kokovartalopeili.",
+        "sal1_suite_diningtable": "Huoneistossa on tilava ruokapöytä ja oleskelualue.",
+        "sal1_suite_kitchenette": "Keittokulmasta löytyy jääkaappi, mikroaaltouuni, kahvin- ja teen keitin sekä ruokailuvälineet ja vesipiste.",
+        "sal1_suite_living": "Oleskeluryhmässä on tilaa neljälle henkilölle. Huoneistossa on kirjoja sekä leluja lapsille.",
+        "sal1_suite_sauna": "Huoneistossa on oma sauna neljälle hengelle.",
+        "sal1_suite_toys": "Huoneistossa on tilaa leikkiä perheen pienimmille.",
+        "sal1_suite_vanity1": "Erillinen, tilava wc.",
+        "sal1_suite_vanity2": "Pyyhkeitä on kahta eri kokoa.Hiustenkuivain löytyy wc:stä."
+      },
+      "superior": {
+        "sal1_superior": "Huoneesta löytyy iso jääkaappi ja mikroaaltouuni.",
+        "sal1_superior_bathroom": "Tilavassa kylpyhuoneessa on suihku sekä hiustenkuivain. Pyyhkeitä löytyy kahta eri kokoa.",
+        "sal1_superior_bedroom": "Isommissa superior huoneissa on oleskelutila.",
+        "sal1_superior_sofa": "Superior huone soveltuu hyvin pidempäänkin majoitustarpeeseen."
+      }
+    }
+  }
+}
