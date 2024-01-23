@@ -37,6 +37,13 @@
   "Early arrival": "Aikaisempi tuloaika 14:00",
   "NoTVNotice": "Huoneen TV on viety huoltoon. Majoitu nyt halvemmalla huoneessa, jossa ei ole tv:tä.",
   "WindowlessNotice": "Huoneen ikkunasta rajoitettu näkymä. Majoitu nyt halvemmalla huoneessa, jossa ei ole näkymää ulos.",
+  "GiftCardPerk1": "Lahjakortti on voimassa 12 kuukautta",
+  "GiftCardPerk2": "Voidaan käyttää heti!",
+  "GiftCardPerk3": "Lähetetty turvallisesti sähköpostitse",
+  "GiftCardProduct": "Omena lahjakortti",
+  "GiftCardTextDesc": "mutta Omenan lahjakortti on toiseksi paras!",
+  "GiftCardTextTitle": "Aikaa ei voi lahjoittaa",
+  "GiftCardDesc": "Anna itsellesi tai läheisillesi lahja, josta jokainen voi nauttia! Yhteisen ajan lahja",
   "breakfast": {
     "HKI2": "Lönnrotinkadun Omenan aamiaisen tarjoaa Bär Bar osoitteessa Fredrikinkatu 30.",
     "HKI3": "Helsingin Yrjönkadun aamiaiskumppanimme on Picnic Kukontori, kauppakeskus Forumissa, joka sijaitsee aivan hotellin välittömässä läheisyydessä osoitteessa Mannerheimintie 20, 3. kerros.",
