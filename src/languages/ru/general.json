@@ -527,5 +527,9 @@
   "ValidUntil": "Действительна до",
   "WhoIsTheLuckyOne": "Кто счастливчик?",
   "BlockedEmailDesc": "Адрес электронной почты заблокирован!",
-  "BookingSummary": "Сводка бронирования"
+  "BookingSummary": "Сводка бронирования",
+  "toastGiftCardExpired": "Срок действия подарочной карты истек!",
+  "toastGiftCardNotFound": "Подарочная карта не найдена!",
+  "toastGiftCardNotHaveBalance": "Баланс подарочной карты исчерпан!",
+  "YouCannotMakeAnyChangeToReservation": "Вы не можете внести какие-либо изменения в это бронирование."
 }
