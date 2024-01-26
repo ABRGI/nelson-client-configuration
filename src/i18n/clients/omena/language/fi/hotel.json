@@ -1,0 +1,249 @@
+{
+  "DoorcodeInfoTitle": "Ovikoodi on avaimesi Omenassa",
+  "DoorcodeInfoDesc": "Kaikki vieraat saavat huoneiden numerot ja ovikoodit tekstiviestillä ja sähköpostilla saapumispäivän lähestyessä.",
+  "Single": "Yhden hengen huone",
+  "Standard": "Standard huone",
+  "SINGLE": "Yhden hengen huone",
+  "STANDARD": "Standard huone",
+  "WINDOWLESS": "Huoneesta rajoitettu näkymä",
+  "SINGLE_TV_LESS": "Yhden hengen huone ilman TV:tä",
+  "STANDARD_TV_LESS": "Standard huone ilman TV:tä",
+  "short_SINGLE": "Yhden hengen",
+  "short_STANDARD": "Standard",
+  "short_SINGLE_TV_LESS": "Yhden hengen ilman TV:tä",
+  "short_STANDARD_TV_LESS": "Standard ilman TV:tä",
+  "short_WINDOWLESS": "Huoneesta rajoitettu näkymä",
+  "bed_arrangement_standard_room": "1 parisänky",
+  "bed_arrangement_single_room": "1 yhden hengen sänky",
+  "StandardRoomDescription": "",
+  "TripleRoomDescription": "",
+  "DoubleRoomDescription": "",
+  "SingleRoomDescription": "",
+  "WindowlessRoomDescription": "",
+  "OmenaHotel": "Omena-hotelli",
+  "Extra bed": "Lisävuode",
+  "Breakfast": "Aamiainen",
+  "SameDayECIFlex_15": "Aikaisempi tuloaika 15:00",
+  "SameDayECIFlex_14": "Aikaisempi tuloaika 14:00",
+  "SameDayECIFlex_13": "Aikaisempi tuloaika 13:00",
+  "SameDayECIFlex_12": "Aikaisempi tuloaika 12:00",
+  "SameDayECIFlex_11": "Aikaisempi tuloaika 11:00",
+  "SameDayECIFlex_10": "Aikaisempi tuloaika 10:00",
+  "SameDayECIFlex_9": "Aikaisempi tuloaika 09:00",
+  "SameDayECIFlex_8": "Aikaisempi tuloaika 08:00",
+  "SameDayECIFlex_7": "Aikaisempi tuloaika 07:00",
+  "SameDayECIFlex_6": "Aikaisempi tuloaika 06:00",
+  "Late departure": "Myöhäisempi lähtöaika 14:00",
+  "Early arrival": "Aikaisempi tuloaika 14:00",
+  "NoTVNotice": "Huoneen TV on viety huoltoon. Majoitu nyt halvemmalla huoneessa, jossa ei ole tv:tä.",
+  "WindowlessNotice": "Huoneen ikkunasta rajoitettu näkymä. Majoitu nyt halvemmalla huoneessa, jossa ei ole näkymää ulos.",
+  "GiftCardPerk1": "Lahjakortti on voimassa 12 kuukautta",
+  "GiftCardPerk2": "Voidaan käyttää heti!",
+  "GiftCardPerk3": "Lähetetty turvallisesti sähköpostitse",
+  "GiftCardProduct": "Omena lahjakortti",
+  "GiftCardTextDesc": "mutta Omenan lahjakortti on toiseksi paras!",
+  "GiftCardTextTitle": "Aikaa ei voi lahjoittaa",
+  "GiftCardDesc": "Anna itsellesi tai läheisillesi lahja, josta jokainen voi nauttia! Yhteisen ajan lahja",
+  "breakfast": {
+    "HKI2": "Lönnrotinkadun Omenan aamiaisen tarjoaa Bär Bar osoitteessa Fredrikinkatu 30.",
+    "HKI3": "Helsingin Yrjönkadun aamiaiskumppanimme on Picnic Kukontori, kauppakeskus Forumissa, joka sijaitsee aivan hotellin välittömässä läheisyydessä osoitteessa Mannerheimintie 20, 3. kerros.",
+    "JYL1": "Jyväskylän Omenan aamiaisen tarjoaa Wilhelmiinan Konditoria osoitteessa Asemakatu 6.",
+    "POR2": "Porin Omenan aamiaisen tarjoaa Coffee House osoitteessa Liisankatu 2-4.",
+    "TKU1": "Turun Omena-hotelli Humalistonkadun aamiaisen tarjoaa Bär Bar osoitteessa Kristiinankatu 10.",
+    "TKU2": "Turun Kauppiaskadun Omenan aamiaisen tarjoaa <2>Espresso House</2>, osoitteessa <2>Eerikinkatu 10</2>, torin kulmassa.<1/>ma-pe 7 - 12<1/>la 8 - 12<1/>su 9 - 12",
+    "TRE2": "Tampereen Omenan aamiaisen tarjoaa Café Siilinkari osoitteessa Hämeenkatu 9.",
+    "VSA2": "Vaasassa aamiaiskumppanimme on Café Espen. Pääset sinne kätevästi sisäkautta ostoskeskuksen läpi tai ulkokautta torin puolelta (jolloin osoite on Alatori 1B)"
+  },
+  "hotelImgCaption": {
+    "HKI2": {
+      "hki2_facade": "Lönnrotinkadun Omena sijaitsee Helsingin keskustassa lähellä kaupungin palveluja.",
+      "hki2_facade2": "Lönnrotinkadun Omena sijaitsee Helsingin keskustassa lähellä kaupungin palveluja."
+    },
+    "HKI3": {
+      "hki3_facade": "Yrjönkadun Omena-hotellin katunäkymä Helsingin keskustassa",
+      "hki3_facade2": "Yrjönkadun Omena sijaitsee Helsingin keskustassa lähellä kaupungin palveluja."
+    },
+    "JYL1": {
+      "jkl_facade": "Jyväskylän Omena sijaitsee Vapaudenkadulla lähellä kaupungin palveluja.",
+      "jkl_facade2": "Jyväskylän Omena sijaitsee Vapaudenkadulla lähellä kaupungin palveluja."
+    },
+    "POR2": {
+      "por2_facade": "Näkymä Yrjönkadulta Porin Omena-hotellin sisäänkäynnille"
+    },
+    "TKU1": {
+      "tku_street_view": "Katunäkymä Turun Omena-hotellista Humalistonkadulla"
+    },
+    "TKU2": {
+      "tku2_facade": "Omena-hotelli Turku Kauppiaskatu sijaitsee vain korttelin päässä torilta."
+    },
+    "TRE2": {
+      "tre_facade_1": "Näkymä Hämeenkadulta Tampereen Omena-hotellin sisäänkäynnille",
+      "tre_facade_2": "Tampereen Omena sijaitsee Hämeenkadulla lähellä kaupungin palveluja."
+    },
+    "VSA2": {
+      "vsa2_facade": "Omena-hotelli Espen sijaitsee Vaasassa lähellä kaupungin palveluja."
+    }
+  },
+  "roomImgCaption": {
+    "HKI2": {
+      "single": {
+        "hki2_sgl_bathroom": "Jokaisessa huoneessa on oma kylpyhuone.",
+        "hki2_sgl_bed": "Huoneessa on laadukas yhden hengen sänky.",
+        "hki2_sgl_hairdryer": "Kylpyhuoneessa on hiustenkuivaaja ja suuri peili.",
+        "hki2_sgl_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "hki2_sgl_room": "Sängyssä on mukava rentoutua telkkarin tai kirjan parissa.",
+        "hki2_sgl_room2": "Kompaktissa yhden hengen huoneessa on kaikki oleellinen mukavaan yöpymiseen.",
+        "hki2_sgl_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä."
+      },
+      "standard": {
+        "hki2_std_bathroom_module": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "hki2_std_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "hki2_std_hairdryer": "Omenan hiustenkuivaaja",
+        "hki2_std_room": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "hki2_std_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä.",
+        "hki2_std_tv": "Omenan telkkari"
+      },
+      "standard_tv_less": {
+        "hki2_std_bathroom_module": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "hki2_std_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "hki2_std_hairdryer": "Omenan hiustenkuivaaja",
+        "hki2_std_room": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "hki2_std_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä."
+      },
+      "single_tv_less": {
+        "hki2_sgl_bathroom": "Jokaisessa huoneessa on oma kylpyhuone.",
+        "hki2_sgl_bed": "Huoneessa on laadukas yhden hengen sänky.",
+        "hki2_sgl_hairdryer": "Kylpyhuoneessa on hiustenkuivaaja ja suuri peili.",
+        "hki2_sgl_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "hki2_sgl_room2": "Kompaktissa yhden hengen huoneessa on kaikki oleellinen mukavaan yöpymiseen.",
+        "hki2_sgl_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä."
+      }
+    },
+    "HKI3": {
+      "standard": {
+        "hki3_std_bathroom": "Omenan standard-huoneen kylpyhuone",
+        "hki3_std_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "hki3_std_extrabeds": "Omenan lisävuoteet",
+        "hki3_std_hairdryer": "Omenan hiustenkuivaaja",
+        "hki3_std_pillow_towels": "Omenan raikkaat tyynyt ja pyyhkeet",
+        "hki3_std_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä."
+      }
+    },
+    "JYL1": {
+      "standard": {
+        "jkl_std_bed1": "Huoneessa on laadukas kotimainen parivuode.",
+        "jkl_std_bed2": "Puhtaisiin valkoisiin lakanoihin on ihana pujahtaa päivän päätteeksi.",
+        "jkl_std_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "jkl_std_room": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "jkl_std_shower": "Omenan kylpyhuoneen suihku",
+        "jkl_std_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä.",
+        "jkl_std_toilet": "Omenan kylpyhuone"
+      }
+    },
+    "POR2": {
+      "standard": {
+        "por2_standard_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "por2_standard_coatrack": "Omena-huoneen yksityiskohtia",
+        "por2_standard_extrabeds": "Kolmen ja neljän hengen huoneissa on varavuoteiksi muuntautuvat tuolit.",
+        "por2_standard_kitchenette_1": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "por2_standard_night_1": "Puhtaisiin valkoisiin lakanoihin on ihana pujahtaa päivän päätteeksi.",
+        "por2_standard_night_2": "Puhtaisiin valkoisiin lakanoihin on ihana pujahtaa päivän päätteeksi.",
+        "por2_standard_room": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "por2_standard_room_3": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "por2_toilet_1": "Omenan kylpyhuoneen suihku",
+        "por2_toilet_3": "Jokaisessa huoneessa on oma kylpyhuone."
+      },
+      "single": {
+        "por2_standard_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "por2_standard_coatrack": "Omena-huoneen yksityiskohtia",
+        "por2_standard_extrabeds": "Kolmen ja neljän hengen huoneissa on varavuoteiksi muuntautuvat tuolit.",
+        "por2_standard_kitchenette_1": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "por2_standard_night_1": "Puhtaisiin valkoisiin lakanoihin on ihana pujahtaa päivän päätteeksi.",
+        "por2_standard_night_2": "Puhtaisiin valkoisiin lakanoihin on ihana pujahtaa päivän päätteeksi.",
+        "por2_standard_room_3": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "por2_standard_room": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "por2_toilet_1": "Omenan kylpyhuoneen suihku",
+        "por2_toilet_3": "Jokaisessa huoneessa on oma kylpyhuone."
+      }
+    },
+    "TKU1": {
+      "standard": {
+        "tku_std_bed": "Omenan parivuode, vanha",
+        "tku_std_new_kitchenette": "Omenan varustelua",
+        "tku_std_new_room": "Turun remontoitu standard-huone.",
+        "tku_std_new_room2": "Omenan standard-huone, uusi",
+        "tku_std_new_room_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "tku_std_new_shower": "Omenan kylpyhuone, uusi",
+        "tku_std_room2": "Omenan standard-huone, vanha",
+        "tku_std_room3": "Omena standard-huone, vanha",
+        "tku_std_table": "Omenan istuinryhmä"
+      },
+      "standard_tv_less": {
+        "tku_std_bed": "Omenan parivuode, vanha",
+        "tku_std_new_kitchenette": "Omenan varustelua",
+        "tku_std_new_room": "Turun remontoitu standard-huone.",
+        "tku_std_new_room2": "Omenan standard-huone, uusi",
+        "tku_std_new_room_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "tku_std_new_shower": "Omenan kylpyhuone, uusi",
+        "tku_std_room2": "Omenan standard-huone, vanha",
+        "tku_std_room3": "Omena standard-huone, vanha",
+        "tku_std_table": "Omenan istuinryhmä"
+      },
+      "windowless": {
+        "tku_std_bed": "Omenan parivuode, vanha",
+        "tku_std_new_kitchenette": "Omenan varustelua",
+        "tku_std_new_room": "Turun remontoitu standard-huone.",
+        "tku_std_new_room2": "Omenan standard-huone, uusi",
+        "tku_std_new_room_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "tku_std_new_shower": "Omenan kylpyhuone, uusi",
+        "tku_std_room2": "Omenan standard-huone, vanha",
+        "tku_std_room3": "Omena standard-huone, vanha",
+        "tku_std_table": "Omenan istuinryhmä"
+      }
+    },
+    "TKU2": {
+      "standard": {
+        "tku2_extrabeds_2": "Kolmen ja neljän hengen huoneissa on varavuoteiksi muuntautuvat tuolit.",
+        "tku2_hallway_2": "Omena-hotellin käytävä",
+        "tku2_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "tku2_standard_bed": "Huoneessa on laadukas kotimainen parivuode.",
+        "tku2_standard_bed_night": "Puhtaisiin valkoisiin lakanoihin on ihana pujahtaa päivän päätteeksi.",
+        "1_tku2_standard_room": "Huoneet ovat tilavia ja hyvin varusteltuja.",
+        "tku2_standard_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä.",
+        "tku2_standard_toilet": "Omenan standard-huoneen kylpyhuone"
+      }
+    },
+    "TRE2": {
+      "standard": {
+        "tre_bed_2": "Huoneessa on laadukas kotimainen parivuode.",
+        "tre_bed_night": "Puhtaisiin valkoisiin lakanoihin on ihana pujahtaa päivän päätteeksi.",
+        "tre_details": "Omena-huoneen yksityiskohtia",
+        "tre_extrabeds_1": "Kolmen ja neljän hengen huoneissa on varavuoteiksi muuntautuvat tuolit.",
+        "tre_room_1": "Huoneet ovat tilavia...",
+        "tre_room_2": "... ja hyvin varusteltuja.",
+        "tre_toilet": "Jokaisessa huoneessa on oma kylpyhuone."
+      }
+    },
+    "VSA2": {
+      "single": {
+        "vsa2_sgl_bed": "Omenan yhden hengen huone",
+        "vsa2_sgl_kettle": "Omenan vedenkeitin",
+        "vsa2_sgl_microwave": "Omenan mikro",
+        "vsa2_sgl_shower": "Omenan kylpyhuoneen suihku",
+        "vsa_sgl_room_view": "Omenan yhden hengen huone ja näköala"
+      },
+      "standard": {
+        "vsa2_std_bathroom": "Omenan kylpyhuone",
+        "vsa2_std_bed": "Omenan parivuode",
+        "vsa2_std_entry": "Omenan standard-huoneen eteinen",
+        "vsa2_std_hanger": "Omena-huoneen yksityiskohtia",
+        "vsa_kitchenette_kettle": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "vsa2_std_pullman": "Omena standard room, opened bunk bed.",
+        "vsa2_std_pullman_double": "Omena-huoneen avattu kerrossänky",
+        "vsa2_std_shower": "Omenan kylpyhuoneen suihku",
+        "vsa2_std_sofa": "Omenan standard-huoneen sohva suljettuna",
+        "vsa2_std_tv": "Omenan telkkari"
+      }
+    }
+  }
+}

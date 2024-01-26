@@ -1,0 +1,61 @@
+{
+  "DoorcodeInfoTitle": "Ovikoodi on avaimesi",
+  "DoorcodeInfoDesc": "Kaikki vieraat saavat huoneiden numerot ja ovikoodit tekstiviestillä ja sähköpostilla saapumispäivän lähestyessä.",
+  "Single": "Yhden hengen huone",
+  "Standard": "Standard houne",
+  "Suite": "Sviitti",
+  "SINGLE": "Yhden hengen huone",
+  "STANDARD": "Standard houne",
+  "SUITE": "Sviitti",
+  "short_SINGLE": "Yhden hengen",
+  "short_STANDARD": "Standard",
+  "short_SUITE": "Sviitti",
+  "bed_arrangement_single_room": "1 yhden hengen sänky",
+  "bed_arrangement_standard_room": "2 parisänky",
+  "bed_arrangement_suite_room": "2 parisänky",
+  "SuiteRoomDescription": "Tilava saunallinen kaksio, jossa nukkuu taatusti hyvin. Huoneisto sopii erittäin hyvin esim. perheille. Iso kylpyhuone, erillinen wc ja oma makuuhuone sekä keittokomero auttaa viihtymään pidemmänkin aikaa, lisäksi kahdelle hengelle varapeti. Huoneistossa on  lisänä myös ilmalämpöpumppu. Huoneisto saatavilla 1-4 henkilölle.",
+  "StandardRoomDescription": "Nauti hyvistä unista mukavissa sängyissämme. Tilava kylpyhuone ja pieni jääkaappi lisäävät viihtyvyyttä. Huoneita saatavilla 1-4 hengelle.",
+  "SingleRoomDescription": "Mukava, hyvin varusteltu 1 hengen huone, kylpyhuoneineen.",
+  "Extra bed": "Extra bed",
+  "Breakfast": "Breakfast",
+  "SameDayECIFlex_15": "Early arrival 15:00",
+  "SameDayECIFlex_14": "Early arrival 14:00",
+  "SameDayECIFlex_13": "Early arrival 13:00",
+  "SameDayECIFlex_12": "Early arrival 12:00",
+  "SameDayECIFlex_11": "Early arrival 11:00",
+  "SameDayECIFlex_10": "Early arrival 10:00",
+  "SameDayECIFlex_9": "Early arrival 09:00",
+  "SameDayECIFlex_8": "Early arrival 08:00",
+  "SameDayECIFlex_7": "Early arrival 07:00",
+  "SameDayECIFlex_6": "Early arrival 06:00",
+  "Late departure": "Late departure 14:00",
+  "Early arrival": "Early arrival 14:00",
+  "breakfast": {
+    "MH1": "Lähellä sijaitseva ravintola tarjoilee aamiaisen hotellin asiakkaille osoitteessa 244 W 55th St, New York."
+  },
+  "roomImgCaption": {
+    "MH1": {
+      "standard": {
+        "mh1_std_bathroom": "Kylpyhuone",
+        "mh1_std_bed": "Parivuode",
+        "mh1_std_shower": "Kylpyhuoneen suihku",
+        "mh1_std_sofa": "Standard-huoneen sohva suljettuna",
+        "mh1_std_tv": "Telkkari"
+      },
+      "suite": {
+        "mh1-1": "Tilava huone, jossa on kauniisti suunniteltu pohjaratkaisu.",
+        "mh1-2": "Isot ikkunat näköalalla.",
+        "mh1-3": "Mukava parivuode.",
+        "mh1-4": "Suihkualue.",
+        "mh1-5": "Parivuode, työpöytä ja TV."
+      },
+      "single": {
+        "mh1_sgl_bed": "Huoneessa on laadukas yhden hengen sänky",
+        "mh1_sgl_kettle": "Kattila",
+        "mh1_sgl_microwave": "Mikroaaltouuni",
+        "mh1_sgl_shower": "Kylpyhuone suihkulla",
+        "mh1_sgl_room_view": "Yhden hengen huone näköalalla"
+      }
+    }
+  }
+}
