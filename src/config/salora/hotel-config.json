@@ -1,0 +1,25 @@
+{
+  "name": "Salora",
+  "hotelChainName": "SaloHotels",
+  "hotelLogoDark": "/resources/images/salora/salora-logo.png",
+  "hotelLogoLight": "/resources/images/salora/salora-logo.png",
+  "hotelLogoHeight": 40,
+  "hotelFavicon": "/resources/images/salora/salora-icon.png",
+  "hotelTitle": "Book - Hotel Salora",
+  "MUIdomain": {
+    "test": "test-salo.nelson.management",
+    "stg": "stg-salo.nelson.management",
+    "prod": "salo.nelson.management"
+  },
+  "theme": {
+    "mainColor": "#233063",
+    "borderRadius": 0,
+    "outlineRadius": 0
+  },
+  "language": [
+    "en",
+    "fi"
+  ],
+  "font": "Inter",
+  "headerFont": "Inter"
+}

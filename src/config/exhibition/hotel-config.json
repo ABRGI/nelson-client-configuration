@@ -1,0 +1,24 @@
+{
+  "name": "Kensington Stay",
+  "hotelChainName": "ECHotels",
+  "hotelLogoDark": "/resources/images/ec/ec-logo.png",
+  "hotelLogoLight": "/resources/images/ec/ec-logo-light.png",
+  "hotelLogoHeight": 32,
+  "hotelFavicon": "/resources/images/ec/ec-icon.ico",
+  "hotelTitle": "Kensington Stay",
+  "MUIdomain": {
+    "test": "test-kensingtonstay.nelson.management",
+    "stg": "test-kensingtonstay.nelson.management",
+    "prod": "exhibitioncourt.nelson.management"
+  },
+  "theme": {
+    "mainColor": "#6CA3CA",
+    "borderRadius": 8,
+    "outlineRadius": 25
+  },
+  "language": [
+    "en"
+  ],
+  "font": "Inter",
+  "headerFont": "Playfair"
+}

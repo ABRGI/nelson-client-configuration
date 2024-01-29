@@ -577,5 +577,9 @@
   "TotalSavings": "Kokonaissäästö",
   "CancelledAndPastReservation": "Tämä varaus on mennyt ja se on peruttu",
   "CancelledReservation": "Tämä varaus on peruttu",
-  "PastReservation": "Tämä varaus on menneisyydessä"
+  "PastReservation": "Tämä varaus on menneisyydessä",
+  "toastGiftCardExpired": "Lahjakortti on vanhentunut!",
+  "toastGiftCardNotFound": "Lahjakorttia ei ole olemassa!",
+  "toastGiftCardNotHaveBalance": "Lahjakortin arvo on käytetty!",
+  "YouCannotMakeAnyChangeToReservation": "Et voi tehdä muutoksia tähän varaukseen."
 }

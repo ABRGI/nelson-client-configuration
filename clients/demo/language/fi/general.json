@@ -546,12 +546,16 @@
   "GiftCardBalance": "Lahjakortin saldo",
   "GiftCardConfirmDesc": "Voit jakaa sen, kopioida sen tai käyttää sitä itse varauksen tekemiseen.",
   "GiftCardConfirmTitle": "Lahjakorttisi on valmis!",
+  "GiftCardDesc": "Anna itsellesi tai läheisillesi lahja, josta jokainen voi nauttia! Yhteisen ajan lahja",
   "GiftCardError_DecimalNotSupported": "Desimaalihintaa ei tueta",
   "GiftCardError_PriceFormatIncorrect": "Hintamuoto on väärä",
   "GiftCardError_PriceRange": "Hinnan on oltava välillä {{min}} ja {{max}}",
   "GiftCardHasBeenSent": "Lahjakortti lähetetty!",
   "GiftCardNotFound": "Emme löydä lahjakorttia, tarkista uudelleen!",
   "GiftCardNumber": "Lahjakortin numero",
+  "GiftCardPerk1": "Lahjakortti on voimassa 12 kuukautta",
+  "GiftCardPerk2": "Voidaan käyttää heti!",
+  "GiftCardPerk3": "Lähetetty turvallisesti sähköpostitse",
   "GiftCardProduct": "Omena lahjakortti",
   "GiftCardTextDesc": "mutta Omenan lahjakortti on toiseksi paras!",
   "GiftCardTextTitle": "Aikaa ei voi lahjoittaa",
@@ -573,5 +577,9 @@
   "TotalSavings": "Kokonaissäästö",
   "CancelledAndPastReservation": "Tämä varaus on mennyt ja se on peruttu",
   "CancelledReservation": "Tämä varaus on peruttu",
-  "PastReservation": "Tämä varaus on menneisyydessä"
+  "PastReservation": "Tämä varaus on menneisyydessä",
+  "toastGiftCardExpired": "Lahjakortti on vanhentunut!",
+  "toastGiftCardNotFound": "Lahjakorttia ei ole olemassa!",
+  "toastGiftCardNotHaveBalance": "Lahjakortin arvo on käytetty!",
+  "YouCannotMakeAnyChangeToReservation": "Et voi tehdä muutoksia tähän varaukseen."
 }
