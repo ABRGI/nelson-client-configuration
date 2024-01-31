@@ -15,7 +15,7 @@
   "forceSSN": false,
   "forceSignature": false,
   "guestSignature": false,
-  "forceIDCard": false,
+  "forceIDCard": true,
   "guestIDCard": true,
   "showAllRoomAccessToBooker": false,
   "forceGuestToAcceptTC": false,
