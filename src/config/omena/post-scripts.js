@@ -1,3 +1,3 @@
 window.kivaLayer = window.kivaLayer || [];
-window.kivaLayer.push('config', 'UA-16232322-6');
+window.kivaLayer.push('config', 'G-1WTR3QYCPW');
 window.kivaLayer.push('pageview');
