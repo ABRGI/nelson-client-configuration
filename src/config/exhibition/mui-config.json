@@ -41,7 +41,6 @@
     "payments",
     "financial-summary",
     "sales-forecast-daily",
-    "sales-forecast-per-segment-daily",
     "unpaid-reservations"
   ],
   "timeSecif": [
