@@ -577,7 +577,7 @@
   "YouCannotMakeAnyChangeToReservation": "You cannot make any changes to this reservation.",
   "DeleteYourAccount": "Delete your account",
   "PermanentlyDelete": "Permanently delete",
-  "DeleteAccountNote": "Please note, once you delete your account all your membership benefits will expire and you will not be able to manage all your reservations in one place.",
+  "DeleteAccountNote": "Please note, once you delete your account all your membership benefits will expire and you will not be able to manage all your reservation in one place. An email will be sent to Customer Service and they will complete the account deletion.",
   "MemberEmail": "Member email",
   "EmailNotMatchWithCurrentUser": "Email does not match with the current member's email",
   "RequestDeleteGenericError": "An error occurred when requesting account deletion, please try again later!",

@@ -581,5 +581,6 @@
   "toastGiftCardExpired": "Lahjakortti on vanhentunut!",
   "toastGiftCardNotFound": "Lahjakorttia ei ole olemassa!",
   "toastGiftCardNotHaveBalance": "Lahjakortin arvo on käytetty!",
-  "YouCannotMakeAnyChangeToReservation": "Et voi tehdä muutoksia tähän varaukseen."
+  "YouCannotMakeAnyChangeToReservation": "Et voi tehdä muutoksia tähän varaukseen.",
+  "DeleteAccountNote": "Huomioithan, kun poistat tilisi, kaikki jäsenetusi poistuvat, etkä pysty hallinnoimaan kaikkia varauksiasi yhdessä paikassa. Asiakaspalveluumme lähetetään sähköposti ja he viimeistelevät tilin poiston."
 }

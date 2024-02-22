@@ -578,5 +578,6 @@
   "toastGiftCardExpired": "Presentkortet har gått ut!",
   "toastGiftCardNotFound": "Presentkort existerar inte!",
   "toastGiftCardNotHaveBalance": "Presentkortet tog slut!",
-  "YouCannotMakeAnyChangeToReservation": "Du kan inte göra ändringar i denna reservation."
+  "YouCannotMakeAnyChangeToReservation": "Du kan inte göra ändringar i denna reservation.",
+  "DeleteAccountNote": "Observera att när du tar bort ditt konto kommer alla dina medlemsförmåner att upphöra och du kommer inte att kunna hantera alla dina bokningar på ett ställe. Ett e-postmeddelande kommer att skickas till kundtjänst och de kommer att slutföra borttagningen av kontot."
 }
