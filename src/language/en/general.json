@@ -584,5 +584,6 @@
   "MembershipDeletionRequestSent": "Request sent",
   "MembershipDeletionRequestDesc": "Your request to delete your membership account has been sent",
   "MembershipDeleteWarning": "This is permanent and can't be undone!",
-  "MembershipDeleteWarningDesc": "Are you sure you want to delete your account?"
+  "MembershipDeleteWarningDesc": "Are you sure you want to delete your account?",
+  "DateOfBirthOverThreshold": "The date of birth is not underaged."
 }

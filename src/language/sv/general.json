@@ -579,5 +579,14 @@
   "toastGiftCardNotFound": "Presentkort existerar inte!",
   "toastGiftCardNotHaveBalance": "Presentkortet tog slut!",
   "YouCannotMakeAnyChangeToReservation": "Du kan inte göra ändringar i denna reservation.",
-  "DeleteAccountNote": "Observera att när du tar bort ditt konto kommer alla dina medlemsförmåner att upphöra och du kommer inte att kunna hantera alla dina bokningar på ett ställe. Ett e-postmeddelande kommer att skickas till kundtjänst och de kommer att slutföra borttagningen av kontot."
+  "DeleteAccountNote": "Observera att när du tar bort ditt konto kommer alla dina medlemsförmåner att upphöra och du kommer inte att kunna hantera alla dina bokningar på ett ställe. Ett e-postmeddelande kommer att skickas till kundtjänst och de kommer att slutföra borttagningen av kontot.",
+  "DeleteYourAccount": "Radera ditt konto",
+  "EmailNotMatchWithCurrentUser": "E-postadressen stämmer inte överens med den aktuella medlemmens e-postadress",
+  "MemberEmail": "Medlems-epost",
+  "MembershipDeleteWarning": "Detta är permanent och kan inte ångras!",
+  "MembershipDeleteWarningDesc": "Är du säker på att du vill ta bort ditt konto?",
+  "MembershipDeletionRequestDesc": "Din begäran om att ta bort ditt medlemskonto har skickats",
+  "MembershipDeletionRequestSent": "Förfrågan skickad",
+  "PermanentlyDelete": "Ta bort permanent",
+  "RequestDeleteGenericError": "Ett fel uppstod när kontot skulle raderas, försök igen senare!"
 }
