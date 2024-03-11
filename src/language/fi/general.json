@@ -591,5 +591,6 @@
   "MembershipDeletionRequestDesc": "Pyyntösi poistaa jäsentilisi on lähetetty",
   "MembershipDeletionRequestSent": "Pyyntö lähetetty",
   "PermanentlyDelete": "Poista pysyvästi",
-  "RequestDeleteGenericError": "Tilin poistamista pyydettäessä tapahtui virhe. Yritä myöhemmin uudelleen!"
+  "RequestDeleteGenericError": "Tilin poistamista pyydettäessä tapahtui virhe. Yritä myöhemmin uudelleen!",
+  "DateOfBirthOverThreshold": "Syntymäaika ei ole alaikäisen."
 }

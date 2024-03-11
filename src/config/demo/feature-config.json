@@ -41,5 +41,6 @@
   "allocatedRoomRandom": false,
   "allocatedRoomLowToHigh": true,
   "allocatedRoomFamilyBooking": false,
-  "underagedThreshold": 18
+  "underagedThreshold": 18,
+  "findBookingMFA": true
 }

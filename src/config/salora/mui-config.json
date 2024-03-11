@@ -32,7 +32,8 @@
     "pricing",
     "allotments",
     "voucher",
-    "breakfast"
+    "breakfast",
+    "internal-tools-mui"
   ],
   "reportType": [
     "breakfast",

@@ -585,5 +585,12 @@
   "MembershipDeletionRequestDesc": "Your request to delete your membership account has been sent",
   "MembershipDeleteWarning": "This is permanent and can't be undone!",
   "MembershipDeleteWarningDesc": "Are you sure you want to delete your account?",
-  "DateOfBirthOverThreshold": "The date of birth is not underaged."
+  "DateOfBirthOverThreshold": "The date of birth is not underaged.",
+  "VerificationCode": "Verification code",
+  "ResendVerificationCode": "Resend verification code",
+  "EnterCodeSentToEmailAndPhone": "Enter the code we've sent to associated email and phone number",
+  "FindMyBookingError_100048": "Verification code is not valid. Please check again!",
+  "FindMyBookingError_100049": "Verification code is expired!",
+  "FindMyBookingError_100050": "There are multiple reservations with the same reservation code. Please contact customer service for more information!",
+  "MfaHasBeenResent": "Verification code has been resent to associated email and phone number of the requested booking number"
 }

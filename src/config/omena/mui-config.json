@@ -34,7 +34,8 @@
     "voucher",
     "breakfast",
     "hotels",
-    "locks"
+    "locks",
+    "internal-tools-mui"
   ],
   "reportType": [
     "breakfast",

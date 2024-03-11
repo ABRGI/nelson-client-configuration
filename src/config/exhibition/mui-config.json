@@ -26,7 +26,8 @@
     "customers",
     "pricing",
     "allotments",
-    "voucher"
+    "voucher",
+    "internal-tools-mui"
   ],
   "reportType": [
     "cleaning-list",
