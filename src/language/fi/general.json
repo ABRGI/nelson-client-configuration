@@ -592,5 +592,12 @@
   "MembershipDeletionRequestSent": "Pyyntö lähetetty",
   "PermanentlyDelete": "Poista pysyvästi",
   "RequestDeleteGenericError": "Tilin poistamista pyydettäessä tapahtui virhe. Yritä myöhemmin uudelleen!",
-  "DateOfBirthOverThreshold": "Syntymäaika ei ole alaikäisen."
+  "DateOfBirthOverThreshold": "Syntymäaika ei ole alaikäisen.",
+  "EnterCodeSentToEmailAndPhone": "Syötä koodi, jonka olemme lähettäneet varaukseen liittyvään sähköpostiosoitteeseen ja puhelinnumeroon",
+  "FindMyBookingError_100048": "Vahvistuskoodi ei kelpaa. Kokeile uudestaan!",
+  "FindMyBookingError_100049": "Vahvistuskoodi on vanhentunut!",
+  "FindMyBookingError_100050": "Samalla varauskoodilla on useita varauksia. Ota yhteyttä asiakaspalveluun saadaksesi lisätietoja!",
+  "MfaHasBeenResent": "Vahvistuskoodi on lähetetty uudelleen varausnumeroon liittyvään sähköpostiin ja puhelinnumeroon",
+  "ResendVerificationCode": "Lähetä vahvistuskoodi uudelleen",
+  "VerificationCode": "Vahvistuskoodi"
 }

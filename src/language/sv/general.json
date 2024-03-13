@@ -588,5 +588,13 @@
   "MembershipDeletionRequestDesc": "Din begäran om att ta bort ditt medlemskonto har skickats",
   "MembershipDeletionRequestSent": "Förfrågan skickad",
   "PermanentlyDelete": "Ta bort permanent",
-  "RequestDeleteGenericError": "Ett fel uppstod när kontot skulle raderas, försök igen senare!"
+  "RequestDeleteGenericError": "Ett fel uppstod när kontot skulle raderas, försök igen senare!",
+  "EnterCodeSentToEmailAndPhone": "Ange koden vi har skickat till bokningens e-post och telefonnummer",
+  "FindMyBookingError_100048": "Verifieringskoden är inte giltig. Försök igen tack!",
+  "FindMyBookingError_100049": "Verifieringskoden har upphört att gälla!",
+  "FindMyBookingError_100050": "Det finns flera bokningar med samma bokningskod. Kontakta kundtjänsten för mer information!",
+  "MfaHasBeenResent": "Verifieringskoden har skickats om till e-postadressen och telefonnumret som är kopplat till bokningsnumret",
+  "ResendVerificationCode": "Sänd verifikationskod igen",
+  "VerificationCode": "Verifierings kod",
+  "DateOfBirthOverThreshold": "Födelsedatumet är inte minderårigt."
 }
