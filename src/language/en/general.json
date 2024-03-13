@@ -588,9 +588,9 @@
   "DateOfBirthOverThreshold": "The date of birth is not underaged.",
   "VerificationCode": "Verification code",
   "ResendVerificationCode": "Resend verification code",
-  "EnterCodeSentToEmailAndPhone": "Enter the code we've sent to associated email and phone number",
+  "EnterCodeSentToEmailAndPhone": "Enter the code we've sent to reservation email and phone number",
   "FindMyBookingError_100048": "Verification code is not valid. Please check again!",
   "FindMyBookingError_100049": "Verification code is expired!",
   "FindMyBookingError_100050": "There are multiple reservations with the same reservation code. Please contact customer service for more information!",
-  "MfaHasBeenResent": "Verification code has been resent to associated email and phone number of the requested booking number"
+  "MfaHasBeenResent": "Verification code has been resent to the email and phone number associated with the booking number"
 }
