@@ -46,5 +46,6 @@
   "allocatedRoomFamilyBooking": false,
   "underagedThreshold": 18,
   "findBookingMFA": true,
+  "useTheHotelNetworkTracking": false,
   "theHotelNetworkTracking": null
 }

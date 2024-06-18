@@ -43,6 +43,7 @@
   "allocatedRoomFamilyBooking": true,
   "underagedThreshold": 18,
   "findBookingMFA": true,
+  "useTheHotelNetworkTracking": true,
   "theHotelNetworkTracking": {
     "accountKey": "SOMERANDOMKEY123",
     "properties": [
