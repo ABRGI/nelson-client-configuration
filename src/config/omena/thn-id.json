@@ -1,0 +1,37 @@
+{
+  "accountKey": "SOMERANDOMKEY123",
+  "properties": [
+    {
+      "hotelLabel": "HKI3",
+      "propertyId": "RANDOMPROPERTYID1"
+    },
+    {
+      "hotelLabel": "JYL1",
+      "propertyId": "RANDOMPROPERTYID2"
+    },
+    {
+      "hotelLabel": "TRE2",
+      "propertyId": "RANDOMPROPERTYID3"
+    },
+    {
+      "hotelLabel": "TKU1",
+      "propertyId": "RANDOMPROPERTYID4"
+    },
+    {
+      "hotelLabel": "VSA2",
+      "propertyId": "RANDOMPROPERTYID5"
+    },
+    {
+      "hotelLabel": "HKI2",
+      "propertyId": "RANDOMPROPERTYID6"
+    },
+    {
+      "hotelLabel": "TKU2",
+      "propertyId": "RANDOMPROPERTYID7"
+    },
+    {
+      "hotelLabel": "POR2",
+      "propertyId": "RANDOMPROPERTYID8"
+    }
+  ]
+}
