@@ -4,4 +4,4 @@ const execSync = child.execSync;
 
 const client = process.argv[2] || 'demo';
 
-execSync(`http-server ./clients/${client} -p 6000`);
+execSync(`http-server ./clients/${client} -p 3100`);
