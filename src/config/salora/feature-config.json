@@ -41,7 +41,7 @@
   "giftCardDefaultAmount": 0,
   "giftCardRange": [0,0],
   "giftCardDecimal": false,
-  "allocatedRoomRandom": false,
+  "allocatedRoomRandom": true,
   "allocatedRoomLowToHigh": true,
   "allocatedRoomFamilyBooking": false,
   "underagedThreshold": 18,

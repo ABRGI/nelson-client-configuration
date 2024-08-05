@@ -8,7 +8,7 @@
   "allowMovingToDirtyRoom": false,
   "longTermReservationDays": 28,
   "dummyLock": false,
-  "partialPaymentLink": false,
+  "partialPaymentLink": true,
   "manualPaymentPreset": true,
   "manualPayment": [
     "basic",
