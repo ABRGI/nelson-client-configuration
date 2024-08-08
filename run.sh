@@ -17,13 +17,13 @@ fi
 
 if [ -f "$log_file" ]; then
     cp "$log_file" "$logs_folder/logs_${current_datetime}.log"
-    echo "logs.log has been copied to $logs_folder/logs_${current_datetime}.log"
+    echo "$log_file has been copied to $logs_folder/logs_${current_datetime}.log"
 else
-    echo "logs.log does not exist in the logs folder"
+    echo "$log_file does not exist"
 fi
 
 PORT=4000
-CLIENT=demo
-npm run start $CLIENT $PORT> logs/logs.log 2>&1 &
+CLIENT=omena
+npm run start $CLIENT $PORT> $log_file 2>&1 &
 
 echo "serving $CLIENT on port $PORT"
