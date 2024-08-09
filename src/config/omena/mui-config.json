@@ -10,8 +10,10 @@
   "dummyLock": false,
   "partialPaymentLink": true,
   "manualPaymentPreset": false,
+  "numberOfCommentsInUsage": 2,
   "manualPayment": [
     "basic",
+    "manual",
     "integrated"
   ],
   "OTAServices": [

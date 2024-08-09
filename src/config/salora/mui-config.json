@@ -9,6 +9,7 @@
   "longTermReservationDays": 28,
   "dummyLock": false,
   "partialPaymentLink": true,
+  "numberOfCommentsInUsage": 2,
   "manualPaymentPreset": true,
   "manualPayment": [
     "basic",
