@@ -90,7 +90,7 @@
         "hki2_sgl_bathroom": "Jokaisessa huoneessa on oma kylpyhuone.",
         "hki2_sgl_bed": "Huoneessa on laadukas yhden hengen sänky.",
         "hki2_sgl_hairdryer": "Kylpyhuoneessa on hiustenkuivaaja ja suuri peili.",
-        "hki2_sgl_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "1_hki2_sgl_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
         "hki2_sgl_room": "Sängyssä on mukava rentoutua telkkarin tai kirjan parissa.",
         "hki2_sgl_room2": "Kompaktissa yhden hengen huoneessa on kaikki oleellinen mukavaan yöpymiseen.",
         "hki2_sgl_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä."
@@ -114,7 +114,7 @@
         "hki2_sgl_bathroom": "Jokaisessa huoneessa on oma kylpyhuone.",
         "hki2_sgl_bed": "Huoneessa on laadukas yhden hengen sänky.",
         "hki2_sgl_hairdryer": "Kylpyhuoneessa on hiustenkuivaaja ja suuri peili.",
-        "hki2_sgl_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
+        "1_hki2_sgl_kitchenette": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",
         "hki2_sgl_room2": "Kompaktissa yhden hengen huoneessa on kaikki oleellinen mukavaan yöpymiseen.",
         "hki2_sgl_table": "Pöydän ääressä voit tehdä töitä tai syödä eväitä."
       }
