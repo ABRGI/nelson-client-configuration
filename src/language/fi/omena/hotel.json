@@ -234,7 +234,7 @@
       },
       "standard": {
         "vsa2_std_bathroom": "Omenan kylpyhuone",
-        "vsa2_std_bed": "Omenan parivuode",
+        "1_vsa2_std_bed": "Omenan parivuode",
         "vsa2_std_entry": "Omenan standard-huoneen eteinen",
         "vsa2_std_hanger": "Omena-huoneen yksityiskohtia",
         "vsa_kitchenette_kettle": "Huoneen varusteluun kuuluu vedenkeitin, kahvia, teetä, mikroaaltouuni ja viileäkaappi.",

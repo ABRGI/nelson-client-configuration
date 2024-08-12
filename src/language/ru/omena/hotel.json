@@ -232,7 +232,7 @@
       },
       "standard": {
         "vsa2_std_bathroom": "Ванная комната Omena",
-        "vsa2_std_bed": "Двуспальная кровать Omena",
+        "1_vsa2_std_bed": "Двуспальная кровать Omena",
         "vsa2_std_entry": "Вход в standard-номер Omena",
         "vsa2_std_hanger": "Детали номера Omena",
         "vsa_kitchenette_kettle": "В номере есть электрический чайник, микроволновая печь и холодильник, а также кофе и чай.",

@@ -233,7 +233,7 @@
       },
       "standard": {
         "vsa2_std_bathroom": "Omena bathroom",
-        "vsa2_std_bed": "Omena double bed",
+        "1_vsa2_std_bed": "Omena double bed",
         "vsa2_std_entry": "Omena standard room entry",
         "vsa2_std_hanger": "Omena room details",
         "vsa_kitchenette_kettle": "The room is equipped with an electric kettle, coffee, tea, microwave and refrigerator.",

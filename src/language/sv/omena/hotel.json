@@ -232,7 +232,7 @@
       },
       "standard": {
         "vsa2_std_bathroom": "Omena badrum",
-        "vsa2_std_bed": "Omena dubbelsäng",
+        "1_vsa2_std_bed": "Omena dubbelsäng",
         "vsa2_std_entry": "Omena standardrum inträde",
         "vsa2_std_hanger": "Omena rumsdetaljer",
         "vsa_kitchenette_kettle": "Rummet är utrustat med vattenkokare, kaffe, te, mikrovågsugn och kylskåp.",
