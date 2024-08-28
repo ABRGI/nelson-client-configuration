@@ -68,6 +68,23 @@ deleteOldExport(() => {
               });
             })
           })
+          createDir(`clients/${client}/icon`, () => {
+            getDirectories("src/icon", (icons) => {
+              icons.forEach(icon => {
+                if(fs.existsSync(`src/icon/${icon}`)) {
+                  createDir(`clients/${client}/icon/${icon}`, () => {
+                    getFileList(`src/icon/${icon}`, (files) => {
+                      files.forEach(file => {
+                        if(file[0] !== ".") {
+                          fs.copyFileSync(`src/icon/${icon}/${file}`, `clients/${client}/icon/${icon}/${file}`);
+                        }
+                      });
+                    })
+                  })
+                }
+              });
+            })
+          })
           
         })
       })

@@ -47,5 +47,6 @@
   "underagedThreshold": 18,
   "findBookingMFA": true,
   "useTheHotelNetworkTracking": false,
-  "theHotelNetworkTracking": null
+  "theHotelNetworkTracking": null,
+  "useCookieBot": false
 }
