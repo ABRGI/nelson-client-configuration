@@ -50,6 +50,15 @@ deleteOldExport(() => {
               });
             })
           })
+          createDir(`serve/clients/${client}/static`, () => {
+            getFileList(`src/static/${client}`, (files) => {
+              files.forEach(file => {
+                if(file[0] !== ".") {
+                  fs.copyFileSync(`src/static/${client}/${file}`, `serve/clients/${client}/static/${file}`)
+                } 
+              });
+            })
+          })
           createDir(`serve/clients/${client}/language`, () => {
             getDirectories("src/language", (langs) => {
               langs.forEach(lang => {
