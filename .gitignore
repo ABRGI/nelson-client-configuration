@@ -8,7 +8,8 @@
 package-lock.json
 /clients
 /logs
-/src/icon
+/serve/clients
+/serve/icon
 
 # testing
 /coverage

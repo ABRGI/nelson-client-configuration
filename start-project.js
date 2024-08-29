@@ -5,5 +5,10 @@ const execSync = child.execSync;
 const client = process.argv[2] || 'demo';
 const port = process.argv[3] || '5000';
 
-console.log(`Starting nelson client configuration for client ${client} on port ${port}`);
-execSync(`http-server ./clients/${client} -p ${port}`);
+if(client === "icon") {
+  execSync(`http-server ./clients/icon -p ${port}`);
+  console.log(`Started icon client on port ${port}`);
+} else {
+  execSync(`http-server ./clients/${client} -p ${port}`);
+  console.log(`Started nelson client configuration for client ${client} on port ${port}`);
+}
