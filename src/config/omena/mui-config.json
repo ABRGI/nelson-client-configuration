@@ -2,7 +2,7 @@
   "useHotelCode": true,
   "fullPricingPage": true,
   "allowBreakfast100Percent": false,
-  "allowExternalReservationEdit": false,
+  "allowExternalReservationEdit": true,
   "allowExternalReservationAddExtra": true,
   "allowExternalReservationRefund": true,
   "allowMovingToDirtyRoom": false,

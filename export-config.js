@@ -1,5 +1,7 @@
 import fs from 'fs'
 
+const dummy = process.argv[2] || 'real';
+
 const getDirectories = (source, callback) => {
   fs.readdir(source, { withFileTypes: true }, (err, files) => {
     if (err) {
@@ -50,14 +52,24 @@ deleteOldExport(() => {
               });
             })
           })
-          createDir(`serve/clients/${client}/static`, () => {
-            getFileList(`src/static/${client}`, (files) => {
-              files.forEach(file => {
-                if(file[0] !== ".") {
-                  fs.copyFileSync(`src/static/${client}/${file}`, `serve/clients/${client}/static/${file}`)
-                } 
-              });
-            })
+          createDir(`serve/clients/${client}/param`, () => {
+            if(dummy === 'dummy') {
+              getFileList(`src/param-dummy/`, (files) => {
+                files.forEach(file => {
+                  if(file[0] !== ".") {
+                    fs.copyFileSync(`src/param-dummy/${file}`, `serve/clients/${client}/param/${file}`)
+                  } 
+                });
+              })
+            } else {
+              getFileList(`src/param/${client}`, (files) => {
+                files.forEach(file => {
+                  if(file[0] !== ".") {
+                    fs.copyFileSync(`src/param/${client}/${file}`, `serve/clients/${client}/param/${file}`)
+                  } 
+                });
+              })
+            }
           })
           createDir(`serve/clients/${client}/language`, () => {
             getDirectories("src/language", (langs) => {
