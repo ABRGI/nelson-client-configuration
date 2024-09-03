@@ -1,6 +1,6 @@
 {
   "membership": false,
-  "eciLco": false,
+  "eciLco": true,
   "breakfast": true,
   "compensate": false,
   "cancellationPolicyHours": 24,
