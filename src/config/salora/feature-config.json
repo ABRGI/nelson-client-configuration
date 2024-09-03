@@ -8,7 +8,6 @@
   "defaultGuestNationality": "FIN",
   "findBookingShortcut": true,
   "excludeProductOffer": [
-    "ECI",
     "SameDayECIFlex_15"
   ],
   "giftCard": false,
