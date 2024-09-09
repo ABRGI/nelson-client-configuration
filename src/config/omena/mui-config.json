@@ -13,7 +13,6 @@
   "numberOfCommentsInUsage": 2,
   "manualPayment": [
     "basic",
-    "manual",
     "integrated"
   ],
   "OTAServices": [
