@@ -1,6 +1,6 @@
 {
   "membership": false,
-  "eciLco": true,
+  "eciLco": false,
   "breakfast": true,
   "compensate": false,
   "cancellationPolicyHours": 24,
@@ -47,5 +47,6 @@
   "findBookingMFA": true,
   "useTheHotelNetworkTracking": false,
   "theHotelNetworkTracking": null,
-  "useCookieBot": false
+  "useCookieBot": false,
+  "allowedExtrasForPurchaseOTA": []
 }

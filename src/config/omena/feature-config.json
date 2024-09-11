@@ -45,5 +45,6 @@
   "findBookingMFA": true,
   "useTheHotelNetworkTracking": true,
   "theHotelNetworkTracking": null,
-  "useCookieBot": true
+  "useCookieBot": true,
+  "allowedExtrasForPurchaseOTA": ["ECI", "SAMEDATE_ECI_FLEX", "LCO"]
 }
