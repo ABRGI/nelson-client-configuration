@@ -350,6 +350,7 @@
   "LcoNotAvailable": "Late departure is not available for this date range, please select another date range or remove Late departure",
   "SomeOneElseWillBeTheMainGuest": "Someone else will be the main guest",
   "BlockedUserDesc": "Booking could not be finalized, please contact customer support.",
+  "BlockedUserDescAdmin": "Booking could not be finalized because the customer is blocked.",
   "NoRoomAvailable": "No rooms available",
   "RoomNoLongerAvailable": "Some of your selected rooms are no longer available, please go back and select again.",
   "ExtrasNoLongerAvailable": "Some of your selected extras are no longer available, please go back and select again.",
@@ -617,5 +618,9 @@
   "PaymentLinkErrorDesc_100055": "The amount request for payment is higher than current balance.",
   "PaymentLinkErrorDesc_100056": "Payment amount is negative.",
   "OptionalGuest": "Optional guest",
-  "IncludedInPrice": "Included in price"
+  "IncludedInPrice": "Included in price",
+  "CannotCreateReservation": "Reservation can not be created",
+  "AdultRequiredForBooking": "Reservations can only be created by an adult over {{ageThreshold}} years of age at the time of booking",
+  "CannotValidateSSN": "Cannot validate your SSN, please try again later!",
+  "CannotVerifyYourDateOfBirth": "Cannot verify your date of birth, please try again later!"
 }
