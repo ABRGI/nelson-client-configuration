@@ -1,6 +1,7 @@
 {
   "useHotelCode": false,
   "fullPricingPage": false,
+  "usePricingRules": false,
   "allowBreakfast100Percent": true,
   "allowExternalReservationEdit": true,
   "allowExternalReservationAddExtra": true,
