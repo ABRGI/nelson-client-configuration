@@ -24,6 +24,7 @@
     "email",
     "sms"
   ],
+  "reservationLabelList": [],
   "page": [
     "reservations",
     "usage",

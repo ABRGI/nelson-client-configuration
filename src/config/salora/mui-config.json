@@ -24,6 +24,20 @@
     "email",
     "sms"
   ],
+  "reservationLabelList": [
+    {
+      "id": "disabled",
+      "name": "Request for disabled",
+      "iconType": "solid",
+      "iconName": "wheelchair"
+    },
+    {
+      "id": "babyCot",
+      "name": "Request baby cot",
+      "iconType": "solid",
+      "iconName": "baby"
+    }
+  ],
   "page": [
     "reservations",
     "usage",
